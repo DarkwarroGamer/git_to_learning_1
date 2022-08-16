@@ -2,3 +2,5 @@ Hello there
 This text was writen just to check how to use Github
 Soo... Don't be interested in this .txt document
 It's useless
+This stroke is like next and previous one - useless
+The line above is not lying
